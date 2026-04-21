@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
+## String
+|  |
+| ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 <!---LeetCode Topics End-->
