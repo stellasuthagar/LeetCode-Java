@@ -47,4 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
