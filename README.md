@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0009-palindrome-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
