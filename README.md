@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0058-length-of-last-word) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [3813-vowel-consonant-score](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3813-vowel-consonant-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [3813-vowel-consonant-score](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
