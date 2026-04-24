@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -75,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3813-vowel-consonant-score](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3813-vowel-consonant-score) |
+## Sorting
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
