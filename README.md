@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0001-two-sum) |
+| [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
