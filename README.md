@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0001-two-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
