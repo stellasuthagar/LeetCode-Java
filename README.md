@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0070-climbing-stairs) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Memoization
 |  |
 | ------- |
