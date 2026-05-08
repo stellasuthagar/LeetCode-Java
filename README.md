@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0300-longest-increasing-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
