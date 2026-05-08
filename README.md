@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0198-house-robber) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0198-house-robber) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Memoization
 |  |
