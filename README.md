@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2553-separate-the-digits-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [3813-vowel-consonant-score](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3813-vowel-consonant-score) |
 ## Sorting
 |  |
