@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0070-climbing-stairs) |
+| [0441-arranging-coins](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0441-arranging-coins) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
