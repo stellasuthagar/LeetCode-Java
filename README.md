@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0300-longest-increasing-subsequence) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0441-arranging-coins) |
