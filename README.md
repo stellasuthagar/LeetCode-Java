@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2540-minimum-common-value) |
 | [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
