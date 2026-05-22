@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3794-reverse-string-prefix](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3794-reverse-string-prefix) |
@@ -105,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0100-same-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0100-same-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0100-same-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0513-find-bottom-left-tree-value) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1302-deepest-leaves-sum) |
 ## Number Theory
 |  |
