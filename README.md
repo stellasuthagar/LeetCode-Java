@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 | [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
 |  |
