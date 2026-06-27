@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 | [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
