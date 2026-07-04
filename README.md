@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
