@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0441-arranging-coins) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
