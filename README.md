@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0561-array-partition) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2540-minimum-common-value) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0561-array-partition) |
