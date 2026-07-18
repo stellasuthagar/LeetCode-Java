@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0441-arranging-coins) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2525-categorize-box-according-to-criteria](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2525-categorize-box-according-to-criteria) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Prefix Sum
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Counting Sort
 |  |
@@ -224,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
