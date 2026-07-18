@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2574-left-and-right-sum-differences) |
 | [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2549-count-distinct-numbers-on-board) |
 | [2815-max-pair-sum-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2815-max-pair-sum-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2525-categorize-box-according-to-criteria](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2525-categorize-box-according-to-criteria) |
+| [2549-count-distinct-numbers-on-board](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2549-count-distinct-numbers-on-board) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1688-count-of-matches-in-tournament) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2549-count-distinct-numbers-on-board](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3813-vowel-consonant-score](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3813-vowel-consonant-score) |
