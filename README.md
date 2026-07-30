@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
