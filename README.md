@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1323-maximum-69-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/stellasuthagar/LeetCode-Java/tree/master/0561-array-partition) |
+| [1323-maximum-69-number](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/stellasuthagar/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/stellasuthagar/LeetCode-Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stellasuthagar/LeetCode-Java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
